@@ -1,0 +1,16 @@
+{
+  "name": "norizit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://omar0402.github.io/Norizit",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
